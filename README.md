@@ -16,6 +16,6 @@ Its a classical supervised classfication problem.
 
 Project demo:
 
-1) 
+1) ![](Screenshot 2020-05-17 at 6.24.11 PM.png)
 
 2) 
