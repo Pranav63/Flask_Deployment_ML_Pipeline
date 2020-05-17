@@ -13,9 +13,3 @@ Its a classical supervised classfication problem.
 3) WebPage : Desgining the UI. Under vien/templates/home.html.
 4) Get tweets: Using the API, we are gonna recieve the tweets.
 5) Predict Class and give results. :shipit:
-
-Project demo:
-
-1) ![Screenshot1](Screenshot 2020-05-17 at 6.24.11 PM.png)
-
-2) 
